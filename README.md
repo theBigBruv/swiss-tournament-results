@@ -4,7 +4,7 @@ This project is a Python module that uses the PostgreSQL database to keep track 
 ### Requirements ###
 1. Python 2.7 or above should be installed on your computer. Instructions for checking if python is installed, or for downloading and installing it, can be found here: https://wiki.python.org/moin/BeginnersGuide/Download
 2. Vagrant Virtual machine and VirtualBox. The Vagrant VM has already been installed and configured on the repo you'll download, so you do not need to worry about that. For Virtual Box, instructions for downloading and installing it for your OS can be found here: https://www.virtualbox.org/wiki/Downloads
-3. repo already has PostgreSQL server installed, as well as the psql command line interface (CLI)
+3. PostgreSQL server, as well as the psql command line interface (CLI), which the repo already has installed.
 
 ### Getting Started ###
 You can test out all the functions that have been created in this project:
