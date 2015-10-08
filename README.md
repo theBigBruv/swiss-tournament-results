@@ -7,7 +7,7 @@ This project is a Python module that uses the PostgreSQL database to keep track 
 3. PostgreSQL server, as well as the psql command line interface (CLI), which the repo already has installed.
 
 ### Getting Started ###
-You can test out all the functions that have been created in this project:
+You can run a test to validate functions that have been created in this project using the steps below:
 1. Download the repo as a zip file to your computer (swiss-tournament-results-master.zip)
 2. Unzip the downloaded file, save the extracted folder to a location of your choice
 3. To use the Vagrant VM, launch terminal on MAC or the Command prompt on Windows, and navigate to where you stored the unzipped folder
